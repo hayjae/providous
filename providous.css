@@ -1,0 +1,67 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    
+#main{
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+}
+
+#oyin{
+    width: 30%;
+    height: 60%;
+    position: absolute;
+    background-color: orange;
+    bottom: 0;
+    margin-left: 50px;
+    border-radius: 10px 10px 0px 0px ;
+}
+   .logo{
+    margin-top: 5%;
+    margin-left: 60%;
+   }
+.para{
+    margin-left: 10%;
+
+}
+.welcome{
+    font-size: 30px;
+
+}
+.hold{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.loginform{
+    margin-left: 10%;
+}
+label{
+    text-transform: uppercase;
+
+}
+.titi{
+    padding: 8px;
+}
+.radius{
+    border-radius: 15px;
+    border: 0;
+    width: 60%;
+}
+
+.btn{
+    width: 90%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+
